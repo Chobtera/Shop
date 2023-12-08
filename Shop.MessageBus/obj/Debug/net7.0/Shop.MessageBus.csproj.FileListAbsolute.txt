@@ -1,0 +1,11 @@
+F:\Projetos\ApiControlador\Shop.MessageBus\bin\Debug\net7.0\Shop.MessageBus.deps.json
+F:\Projetos\ApiControlador\Shop.MessageBus\bin\Debug\net7.0\Shop.MessageBus.dll
+F:\Projetos\ApiControlador\Shop.MessageBus\bin\Debug\net7.0\Shop.MessageBus.pdb
+F:\Projetos\ApiControlador\Shop.MessageBus\obj\Debug\net7.0\Shop.MessageBus.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projetos\ApiControlador\Shop.MessageBus\obj\Debug\net7.0\Shop.MessageBus.AssemblyInfoInputs.cache
+F:\Projetos\ApiControlador\Shop.MessageBus\obj\Debug\net7.0\Shop.MessageBus.AssemblyInfo.cs
+F:\Projetos\ApiControlador\Shop.MessageBus\obj\Debug\net7.0\Shop.MessageBus.csproj.CoreCompileInputs.cache
+F:\Projetos\ApiControlador\Shop.MessageBus\obj\Debug\net7.0\Shop.MessageBus.dll
+F:\Projetos\ApiControlador\Shop.MessageBus\obj\Debug\net7.0\refint\Shop.MessageBus.dll
+F:\Projetos\ApiControlador\Shop.MessageBus\obj\Debug\net7.0\Shop.MessageBus.pdb
+F:\Projetos\ApiControlador\Shop.MessageBus\obj\Debug\net7.0\ref\Shop.MessageBus.dll
