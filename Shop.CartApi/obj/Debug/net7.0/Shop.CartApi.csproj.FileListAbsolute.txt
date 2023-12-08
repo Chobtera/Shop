@@ -256,3 +256,4 @@ F:\Projetos\ApiControlador\Shop.CartApi\bin\Debug\net7.0\zh-Hant\Microsoft.CodeA
 F:\Projetos\ApiControlador\Shop.CartApi\bin\Debug\net7.0\RabbitMQ.Client.dll
 F:\Projetos\ApiControlador\Shop.CartApi\bin\Debug\net7.0\Shop.MessageBus.dll
 F:\Projetos\ApiControlador\Shop.CartApi\bin\Debug\net7.0\Shop.MessageBus.pdb
+F:\Projetos\ApiControlador\Shop.CartApi\obj\Debug\net7.0\Shop.CartApi.sourcelink.json

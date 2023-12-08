@@ -39,3 +39,4 @@ F:\Projetos\ApiControlador\Shop.Web\bin\Debug\net7.0\System.IdentityModel.Tokens
 F:\Projetos\ApiControlador\Shop.Web\obj\Debug\net7.0\Shop.Web.csproj.CopyComplete
 F:\Projetos\ApiControlador\Shop.Web\bin\Debug\net7.0\Shop.MessageBus.dll
 F:\Projetos\ApiControlador\Shop.Web\bin\Debug\net7.0\Shop.MessageBus.pdb
+F:\Projetos\ApiControlador\Shop.Web\obj\Debug\net7.0\Shop.Web.sourcelink.json

@@ -9,3 +9,4 @@ F:\Projetos\ApiControlador\Shop.MessageBus\obj\Debug\net7.0\Shop.MessageBus.dll
 F:\Projetos\ApiControlador\Shop.MessageBus\obj\Debug\net7.0\refint\Shop.MessageBus.dll
 F:\Projetos\ApiControlador\Shop.MessageBus\obj\Debug\net7.0\Shop.MessageBus.pdb
 F:\Projetos\ApiControlador\Shop.MessageBus\obj\Debug\net7.0\ref\Shop.MessageBus.dll
+F:\Projetos\ApiControlador\Shop.MessageBus\obj\Debug\net7.0\Shop.MessageBus.sourcelink.json

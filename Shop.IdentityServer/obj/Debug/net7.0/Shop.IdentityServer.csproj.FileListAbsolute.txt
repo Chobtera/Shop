@@ -85,3 +85,4 @@ F:\Projetos\ApiControlador\Shop.IdentityServer\bin\Debug\net7.0\Microsoft.Extens
 F:\Projetos\ApiControlador\Shop.IdentityServer\bin\Debug\net7.0\Mono.TextTemplating.dll
 F:\Projetos\ApiControlador\Shop.IdentityServer\bin\Debug\net7.0\System.CodeDom.dll
 F:\Projetos\ApiControlador\Shop.IdentityServer\bin\Debug\net7.0\keys\is-signing-key-8EFD07451309CC71A73200259A53902B.json
+F:\Projetos\ApiControlador\Shop.IdentityServer\obj\Debug\net7.0\Shop.IdentityServer.sourcelink.json
